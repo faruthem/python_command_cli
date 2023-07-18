@@ -1,0 +1,11 @@
+creo carpeta cli.py
+después desde consola creo lo siguiente
+
+#entorno virtual y lo aislo al igual que sus
+#dependencias
+
+python -m venv venv 
+
+#Luego instalo lo siguiente
+
+pip install click
